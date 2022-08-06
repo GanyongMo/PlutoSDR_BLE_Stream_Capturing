@@ -6,7 +6,7 @@ Where the RF coverage of PlutoSDR is from 325 MHz to 3.8 GHz, apperantly it's su
 
 With the ADALAM-PLUTO, we can realize the data capturing through Matlab, Simulink, Gnu Radio and so forth.
 
-    1. For the Matlab, the first is the Pluto environment setting, we can follow the instruction (matlab.doc).
+    1. For the Matlab, the first is the Pluto environment setting, we can follow the instruction (Capturing_Matlab.pdf).
     
 
     
